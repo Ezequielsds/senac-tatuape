@@ -1,9 +1,3 @@
-# senac-tatuape
-Repositório de arquivos das aulas do curso Técnico em informaticas do Senac Tatuapé 
-
-### Ezequiel Soares da Silva 
-# Repositório de Estudos - Técnico em Informática SENAC Tatuapé
-
 Bem-vindo ao meu repositório! Aqui armazeno todo o conteúdo estudado durante o curso **Técnico em Informática do SENAC Tatuapé**, incluindo materiais, exercícios, projetos e anotações de aula. Este repositório é atualizado gradualmente conforme avanço nas unidades curriculares (UCs).
 
 ---
