@@ -8,13 +8,13 @@ Bem-vindo ao meu repositório! Aqui armazeno todo o conteúdo estudado durante o
 
 ## Unidades Curriculares (UCs)
 
-### UC-1: Fundamentos e Tecnologias Básicas
+### 📕 UC-1: Fundamentos e Tecnologias Básicas
 - **Teoria de Hardware**: Conceitos de componentes, montagem e manutenção de computadores.
 - **Elétrica e Eletrônica Básica com Arduino**: Circuitos simples, sensores e programação básica.
 - **Git e GitHub Básico**: Controle de versão, commits, branches e repositórios.
 - **Inteligência Artificial (AI)**: Conceitos introdutórios de IA, aprendizado de máquina e aplicações práticas.
 
-### UC-2: Sistemas Operacionais
+### 📕 UC-2: Sistemas Operacionais
 - **Microsoft Windows**: Instalação, configuração e administração básica.
 - **GNU/Linux (Open Source)**: Comandos básicos, administração, instalação de pacotes e práticas de terminal.
 
