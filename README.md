@@ -29,3 +29,4 @@ Organizar e documentar de forma clara e prática todos os conteúdos estudados, 
 
 ### Contato
 Para dúvidas ou sugestões, abra uma issue no repositório ou envie uma mensagem.  
+<img width="639" height="503" alt="Captura de tela EletricaBasica" src="https://github.com/user-attachments/assets/6dfe82a4-c9c2-479e-9fbb-b18a2d69adc3" />
