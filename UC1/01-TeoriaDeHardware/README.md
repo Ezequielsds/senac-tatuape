@@ -78,4 +78,89 @@ O motivo principal é a tecnologia **3D V-Cache**, que aumenta drasticamente o c
 
 ➡️ Em jogos, o **9800X3D entrega mais performance por real investido**.  
 
+# 🔎 Comparativo de Processadores — AMD Ryzen 9 9950X3D vs Intel Ultra 9 285
+
+Este repositório contém um resumo técnico e explicativo sobre dois processadores topo de linha: **AMD Ryzen 9 9950X3D** e **Intel Ultra 9 285**.  
+O objetivo é apresentar as principais especificações de forma clara e acessível.
+
 ---
+
+## ⚡ AMD Ryzen 9 9950X3D
+
+- **Frequência de Operação**  
+  - Base: **4.3 GHz**  
+  - Turbo (Boost): **5.7 GHz**  
+
+- **Arquitetura de Núcleos**  
+  - **16 Cores** (núcleos físicos)  
+  - **32 Threads** (com SMT – Simultaneous Multithreading)  
+
+- **Compatibilidade**  
+  - Soquete: **AM5**  
+  - Não acompanha cooler (necessário air cooler ou water cooler dedicado).  
+
+---
+
+## 📌 Intel Ultra 9 285
+
+### 🧩 CPU
+- **24 núcleos**:  
+  - 8 de alto desempenho (P-cores)  
+  - 16 de eficiência (E-cores)  
+- **24 threads**  
+- Frequência máxima: **até 5.6 GHz**  
+- **Cache L3**: 36 MB  
+- Consumo:  
+  - **65W** (base)  
+  - **182W** (máximo)  
+- Tecnologia de fabricação: **3 nm**  
+
+### 💾 Memória (RAM)
+- Suporte: **até 192 GB DDR5** (6400 MHz)  
+- **Dual channel**  
+- **ECC** (correção de erros)  
+
+### 🎮 Gráficos (GPU integrada)
+- Frequência: **300 MHz – 2 GHz**  
+- Resolução: **até 8K a 60 Hz**  
+- Compatibilidade: **DirectX 12, OpenGL, OpenCL**  
+- **Quick Sync**: aceleração de vídeo (edição, streaming)  
+- Suporte a **até 4 monitores**  
+
+### 🤖 NPU (IA)
+- **13 TOPS** (trilhões de operações por segundo)  
+- Suporte a frameworks: **OpenVINO, ONNX, WindowsML**  
+
+### ⚡ Expansões
+- **Thunderbolt 4**  
+- **PCIe 5.0 / 4.0**  
+- **24 linhas PCIe**  
+
+### 🔥 Encapsulamento
+- Soquete: **FCLGA1851**  
+- Temperatura máxima: **105 °C**  
+
+### 🔐 Tecnologias Extras
+- **Thread Director** (gerenciamento de cargas entre P-cores e E-cores)  
+- **vPro** (segurança e gerenciamento remoto)  
+- **Virtualização**  
+- **AES / Boot Guard** (proteção e criptografia)  
+- **TDT** (detecção de ameaças em tempo real)  
+
+---
+
+## ✅ Resumo
+
+- **AMD Ryzen 9 9950X3D**:  
+  Focado em **altíssimo desempenho bruto** para multitarefas, criação de conteúdo e jogos pesados.  
+  Ideal para quem vai usar **placa de vídeo dedicada** e quer máxima performance por núcleo e em multitarefa.  
+
+- **Intel Ultra 9 285**:  
+  Mais moderno em **eficiência energética**, **gráficos integrados**, **recursos de IA** e **segurança**.  
+  Indicado para quem busca **versatilidade**, **IA dedicada** e suporte a tecnologias de última geração.  
+
+---
+
+📂 **Este repositório serve como material de estudo e referência para entusiastas e estudantes de hardware.**
+
+
