@@ -4,4 +4,39 @@ Objetivo da aula de hoje: 05/09/2025
 
 #02_ Peparatório para as Aulas de Elétrica e Eletrônica Básica: Cálculos Básico da Primeira Leia de Ohm (Tensão, Corrente e Resistência)
 
+
 #03_ Cálculo de Resistor para LED´s (Branco de Alto Brilho utilizado na Protoboard - Placa de Ensaio e Arduino)
+
+0.03A
+
+1 Hei Ohm 1 ▲
+na parte de cima divide o triandolo no meio, segundo na parte que sobra em baixo divide novamente 
+Uv representa e a ledra do calculo matematico de tensão.
+Ledra R recebe um simbolo unidade omega Ω
+
+ RΩ
+
+Ledra I unidade de medida A do calculo matematico
+
+  | V=Volts    |
+  | A=Amper |
+  | Ω=Ohms  |
+
+estar na vertical e divisão 
+tudo que for na horizontal e multiplicacão
+divisão não pode alterar os numeros 
+mas na multiplicação não tem problema.
+
+U=5
+I=3A
+R=?  
+
+5 dividido por 3 = 1,66Ω
+si  a corrente for maior ou igal que da curto circuito por isso não pode acontecer 
+Fonte Computador 
+PSU - PFC
+Full Range 
+100-------240V
+    110-115
+      127V
+ 
