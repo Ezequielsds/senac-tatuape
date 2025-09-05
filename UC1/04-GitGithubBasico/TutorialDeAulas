@@ -1,0 +1,43 @@
+# 📂 Repositório UC1 - Técnico em Informática  
+
+## 📌 Etapas Realizadas  
+
+- Criada a pasta **UC1** no computador.  
+- Dentro dela foram adicionadas as pastas:  
+  - `01-TeoriaDeHardware`  
+  - `02-EletricaBasica`  
+  - `03-EletronicaBasicaArduino`  
+  - `04-GitgithubBasico`  
+  - `README.md`  
+
+- A pasta **UC1** foi enviada para o GitHub usando:  
+  - **Add file → Upload files**  
+  - **Commit changes** para salvar no repositório.  
+
+- No servidor da turma:  
+  **TAT-TURMAS → Pública → !!!!!!!RobsonVaamonde → !!!!EletricaEletronica-Tarde**  
+  foram copiadas todas as aulas.  
+
+- As aulas foram enviadas para o GitHub dentro da pasta:  
+  `UC1/04-GitgithubBasico/`  
+
+- Finalizado com **Commit changes**.  
+
+---
+
+## 📖 Conteúdo Disponível  
+
+### 01-TeoriaDeHardware  
+📌 Introdução e fundamentos de hardware.  
+
+### 02-EletricaBasica  
+📌 Conceitos básicos de eletricidade.  
+
+### 03-EletronicaBasicaArduino  
+📌 Exercícios e práticas com Arduino.  
+
+### 04-GitgithubBasico  
+📌 Aulas copiadas do repositório de apoio do professor, organizadas para estudo de versionamento.  
+
+---
+✅ Repositório criado e organizado para estudo da **UC1 - Técnico em Informática**.  
