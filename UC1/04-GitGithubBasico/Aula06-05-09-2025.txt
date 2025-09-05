@@ -1,0 +1,7 @@
+Objetivo da aula de hoje: 05/09/2025
+
+#01_ Finalização de todo o conteúdo ministrados nas últimas 06 (seis) aulas.
+
+#02_ Peparatório para as Aulas de Elétrica e Eletrônica Básica: Cálculos Básico da Primeira Leia de Ohm (Tensão, Corrente e Resistência)
+
+#03_ Cálculo de Resistor para LED´s (Branco de Alto Brilho utilizado na Protoboard - Placa de Ensaio e Arduino)
