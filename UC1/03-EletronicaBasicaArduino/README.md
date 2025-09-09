@@ -1,20 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 📌 Introdução ao Arduino
 
 O **Arduino** é uma plataforma de prototipagem eletrônica **open source** que combina **hardware e software** de fácil utilização.  
