@@ -95,7 +95,7 @@ Quanto menor o valor, mais rápido o LED pisca.
 O projeto Pisca LED é o primeiro passo no mundo Arduino, perfeito para aprender como controlar saídas digitais e entender a lógica básica de programação embarcada.⬇
 
 
-# 📟 Relatório: Uso do Multímetro
+# oo 📟 Relatório: Uso do Multímetro 
 
 O **multímetro** é uma ferramenta eletrônica versátil, utilizada para medir diferentes grandezas elétricas em circuitos, como **tensão (V)**, **corrente (A)** e **resistência (Ω)**.  
 
