@@ -92,7 +92,8 @@ Quanto menor o valor, mais rápido o LED pisca.
 
 🚀 Conclusão
 
-O projeto Pisca LED é o primeiro passo no mundo Arduino, perfeito para aprender como controlar saídas digitais e entender a lógica básica de programação embarcada.
+O projeto Pisca LED é o primeiro passo no mundo Arduino, perfeito para aprender como controlar saídas digitais e entender a lógica básica de programação embarcada.⬇
+
 
 # 📟 Relatório: Uso do Multímetro
 
